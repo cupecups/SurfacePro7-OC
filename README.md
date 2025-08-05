@@ -58,6 +58,8 @@ This project aims to provide continued support running macOS on the Surface Pro 
 
 ### [guide by @balopez83) Quirks & Fixes - Includes how to set up the Touch Screen](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/3-quirks%26fixes.md)
 
+### [guide by @balopez83) Enable Secure Boot with OpenCore/macOS](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/7-SecureBootOn.md)
+
 
 ## Credits
 Special thanks to [@Xiashangning](https://github.com/Xiashangning) & [@balopez83](https://github.com/balopez83) for the excellent work done on his BigSurface kext. @badstorm & @Xiashangning for the initial work they did in getting initial support for macOS on the Surface Pro 7 from which my work builds upon. 
