@@ -19,3 +19,42 @@ This project aims to provide continued support running macOS on the Surface Pro 
 |Batt| XX,000 mAH |
 |USB| 1x USB-C |
 |USB| 1x USB-A |
+
+
+## What works 
+- Surface Pro i5 & i7 Supported (i3 Unsupported Graphics)
+- macOS Installer
+- macOS Updates
+- Fan
+- USB
+- Trackpad
+- TouchScreen
+- Keyboard
+- Audio
+- Brightness Keys
+- Power Management
+- UEFI Secure Boot ON
+- Surface Keyboard Hot Plug
+- Intel Wifi
+- Intel Bluetooth
+- Battery Status
+- Dual Boot with Windows
+- Dual Boot with Linux
+- Dual Boot with ChromeOS
+- SD card
+- Volume Buttons
+- Power Button
+- Recovery
+- Surface Pen
+- USB-C video out
+- FileVault
+- Sleep/Hibernation (Hibernatemode 25 only)
+- Surface Dock
+
+## What doesn't work
+- Accelerometer (unsupported device)
+- Cameras (unsupported device)
+- Hardware based DRM (Apple Issue)
+
+### [guide by @balopez83) Quirks & Fixes - Includes how to set up the Touch Screen](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/3-quirks%26fixes.md)
+
