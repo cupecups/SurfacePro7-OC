@@ -64,6 +64,21 @@ This project aims to provide continued support running macOS on the Surface Pro 
 - drag'n drop the FeatureFlags.zip under /Library/Preferences/ (You can cmd+shift+g and type /Library/Preferences/ in Finder).
 - Double-click to decompress, reboot, done
 
+## For people having issues with FV in Tahoe, you could try this:
+
+1. disable EnableJumpstart in config.plist > UEFI > APFS
+
+2. download apfs_aligned.efi from here.
+
+3. place it into OC > Drivers
+
+4. add it to config.plist, as well.
+
+5. reboot and see if you can login.
+
+##enable launchpad tahoe
+lauchback [@trey-a-12](https://github.com/trey-a-12/LaunchBack)
+
 ## Credits
 Special thanks to [@Xiashangning](https://github.com/Xiashangning) & [@balopez83](https://github.com/balopez83) for the excellent work done on his BigSurface kext. @badstorm & @Xiashangning for the initial work they did in getting initial support for macOS on the Surface Pro 7 from which my work builds upon. 
 
