@@ -76,7 +76,7 @@ This project aims to provide continued support running macOS on the Surface Pro 
 
 5. reboot and see if you can login.
 
-##enable launchpad tahoe
+## enable launchpad tahoe
 lauchback [@trey-a-12](https://github.com/trey-a-12/LaunchBack)
 
 ## Credits
