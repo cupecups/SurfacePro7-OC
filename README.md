@@ -56,6 +56,12 @@ This project aims to provide continued support running macOS on the Surface Pro 
 - Cameras (unsupported device)
 - Hardware based DRM (Apple Issue)
 
+## Special Tahoe Beta
+- Bigsurface issue when typecover attach cause kernel panic/freeze because Race condition with VoodooPS2 and VoodooI2C, so on
+some boots they don't initialize properly
+- Need Update USBmap key to tahoe
+- add -igfxdbeo for fix flickering display
+
 ### [guide by @balopez83) Quirks & Fixes - Includes how to set up the Touch Screen](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/3-quirks%26fixes.md)
 
 ### [guide by @balopez83) Enable Secure Boot with OpenCore/macOS](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/7-SecureBootOn.md)
