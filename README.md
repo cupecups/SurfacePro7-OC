@@ -3,8 +3,10 @@ This project aims to provide continued support running macOS on the Surface Pro 
 <br>
 <br>
 <br>
+
+![alt text](https://github.com/cupecups/SurfacePro7-OC/blob/a9667297b9876673145e5660ea4125db86932cd3/ss/RC.jpeg)
 ![alt text](https://github.com/cupecups/SurfacePro7-OC/blob/a9667297b9876673145e5660ea4125db86932cd3/ss/sequoia.PNG)
-![alt text](https://github.com/cupecups/SurfacePro7-OC/blob/a9667297b9876673145e5660ea4125db86932cd3/ss/tahoe.PNG)
+
 
 ## Specifications:
 
