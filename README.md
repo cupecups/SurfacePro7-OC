@@ -4,7 +4,7 @@ This project aims to provide continued support running macOS on the Surface Pro 
 <br>
 <br>
 
-![alt text](https://github.com/cupecups/SurfacePro7-OC/blob/463a1a392cbc311000d5d3c06fdfae55f1e2a3b8/ss/RC.jpeg)
+![alt text](https://github.com/cupecups/SurfacePro7-OC/blob/50e11eb0a3fe7465689923580603693fa6f63d33/ss/tahoe.PNG)<br>
 ![alt text](https://github.com/cupecups/SurfacePro7-OC/blob/a9667297b9876673145e5660ea4125db86932cd3/ss/sequoia.PNG)
 
 
@@ -13,7 +13,7 @@ This project aims to provide continued support running macOS on the Surface Pro 
 | Model: | Pro 7 |
 |---|----------|
 |CPU| 10th Gen i7 |
-|GPU| Intel UHD (unsupported)/ Intel Iris Pro |
+|GPU| Intel Iris Pro |
 |RAM| 16 GB |
 |SSD| 512GB NVME |
 |WiFi| Intel Wifi |
@@ -83,9 +83,6 @@ some boots they don't initialize properly
 4. add it to config.plist, as well.
 
 5. reboot and see if you can login.
-
-## enable launchpad tahoe
-lauchback [@trey-a-12](https://github.com/trey-a-12/LaunchBack)
 
 ## Credits
 Special thanks to [@Xiashangning](https://github.com/Xiashangning) & [@balopez83](https://github.com/balopez83) for the excellent work done on his BigSurface kext. @badstorm & @Xiashangning for the initial work they did in getting initial support for macOS on the Surface Pro 7 from which my work builds upon. 
