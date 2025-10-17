@@ -1,5 +1,6 @@
 # SurfacePro7-OC
-This project aims to provide continued support running macOS on the Surface Pro 7, maybe end of jurney with my SP7, you can still consider the project on this balopez83 [github](https://github.com/balopez83/Surface-Pro-7-Hackintosh)
+This project aims to provide continued support running macOS on the Surface Pro 7.
+(end of jurney with my SP7) you can still consider the project on this balopez83 [github](https://github.com/balopez83/Surface-Pro-7-Hackintosh)
 <br>
 <br>
 <br>
